@@ -19,6 +19,15 @@ body {
 .remaining {
   grid-area: rm;
   margin: auto;
+  position: relative;
+  right: 200px;
+}
+
+.remainings {
+  grid-area: rm;
+  margin: auto;
+  position: relative;
+  left: 200px;
 }
 
 .plate {
